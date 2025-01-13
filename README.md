@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/financial-data-explorer.git
+git clone https://github.com/sharathodepalli/fintech.git
 cd financial-data-explorer
 ```
 
@@ -110,6 +110,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Sharath Chandra Odepalli - Sharathodepalli@gmail.com
 
-Project Link: [https://github.com/yourusername/financial-data-explorer](https://github.com/yourusername/financial-data-explorer)
+Project Link: [https://github.com/sharathodepalli/fintech.git]
